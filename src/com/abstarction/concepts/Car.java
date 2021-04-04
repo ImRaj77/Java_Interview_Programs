@@ -1,4 +1,4 @@
-package com.abstarction.concepts;
+package src.com.abstarction.concepts;
 
 public interface Car {
 	// We can achieve 100% abstraction using Interface
