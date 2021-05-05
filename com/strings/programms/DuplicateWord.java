@@ -1,4 +1,4 @@
-package com.interviw.programs;
+package com.strings.programms;
 
 public class DuplicateWord {
 	public static void main(String[] args) {

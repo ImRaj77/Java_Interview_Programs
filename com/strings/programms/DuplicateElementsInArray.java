@@ -1,4 +1,4 @@
-package com.interviw.programs;
+package com.strings.programms;
 
 import java.util.HashMap;
 import java.util.HashSet;
