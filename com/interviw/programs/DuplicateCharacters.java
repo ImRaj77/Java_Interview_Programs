@@ -18,14 +18,14 @@ public class DuplicateCharacters {
 			}
 			//A character is considered as duplicate if count is greater than 1  
 			if(count>1 && a[i]!='0') {
-				System.out.println(" "+a[i]);
+				System.out.println(" "+a[i]+" "+count);
 			}
 		}
 	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		duplicateCharacters("Rrjabhau");
+		duplicateCharacters("Rrjaaabhau");
 	}
 
 }

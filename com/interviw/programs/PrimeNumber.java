@@ -31,5 +31,4 @@ public class PrimeNumber {
 //		System.out.println(isPrimeNumber(20));
 		getPrimeNumbers(100);
 	}
-
 }
